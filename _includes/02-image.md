@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Captain Wideshot](https://i.imgur.com/p8lInLi.jpg)
